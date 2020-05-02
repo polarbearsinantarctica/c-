@@ -1,2 +1,2 @@
 # c-
-This is the c++ learning material
+This is the C++ learning material
